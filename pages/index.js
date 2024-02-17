@@ -53,7 +53,7 @@ const Home = (props) => {
                 <br></br>
                 <span>&quot;Hello there,</span>
                 <br></br>
-                <span>I’m a UX designer…&quot;</span>
+                <span>I’m a UX/UI designer…&quot;</span>
                 <br></br>
               </h1>
               <div className="home-cta-btn-container"></div>
