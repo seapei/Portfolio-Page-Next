@@ -14,7 +14,7 @@ const Home = (props) => {
           <div className="home-navbar">
             <span className="Card-Heading home-heading">Logo</span>
             <div className="home-links-container">
-              <span className="home-link Navbar-Link">About</span>
+              <span className="home-link Navbar-Link">About you</span>
               <Link href="/">
                 <a className="home-link02 Navbar-Link">Design projects</a>
               </Link>
