@@ -79,7 +79,7 @@ const Home = (props) => {
               <div className="home-icon-container">
                 <img
                   alt="image"
-                  src="/Icons + pictures/wireframes-200h.png"
+                  src="/assets/wireframes-200h.png"
                   className="home-image1"
                 />
               </div>
@@ -111,7 +111,7 @@ const Home = (props) => {
               <div className="home-icon-container2">
                 <img
                   alt="image"
-                  src="/Icons + pictures/graphic%20design%20icon%203-200h.png"
+                  src="/assets/graphic%20design%20icon%203-200h.png"
                   className="home-image2"
                 />
               </div>
@@ -292,7 +292,7 @@ const Home = (props) => {
         <div className="home-subscribe">
           <img
             alt="image"
-            src="/Icons + pictures/default-img.svg"
+            src="/assets/default-img.svg"
             className="home-image3"
           />
           <div className="home-container11">
